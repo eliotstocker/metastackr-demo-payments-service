@@ -1,0 +1,6 @@
+{
+  "name": "payments-service",
+  "version": "1.0.0",
+  "description": "Payment gateway integration service",
+  "main": "index.js"
+}
